@@ -24,6 +24,3 @@
    ```bash
    git clone https://github.com/kisankumarbhagat/MeghaDoot.git
 
-   
-![Logo](https://github.com/-attachments/assets/ae413543-55a5-4593-88a5-060f56a88dc7)
-
