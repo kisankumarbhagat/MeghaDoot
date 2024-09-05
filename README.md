@@ -2,7 +2,7 @@
 
 **MeghaDoot** is a modern weather application developed using Kotlin and Android Studio XML. It fetches real-time weather updates using APIs and JSON data, while Lottie animations enhance the user experience with dynamic, visually engaging elements.
 
-## Features
+## Features 
 
 - **Real-Time Weather Data**: Fetches current weather conditions and forecasts using API integration.
 - **User-Friendly Interface**: Simple and intuitive design built with Android Studio XML.
